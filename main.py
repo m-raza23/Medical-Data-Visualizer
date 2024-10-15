@@ -1,4 +1,4 @@
-import la as mdv
+import medical_data_visualizer as mdv
 
 mdv
 mdv.draw_cat_plot()
